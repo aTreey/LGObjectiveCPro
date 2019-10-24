@@ -1,0 +1,22 @@
+{
+  "name": "LGObjectiveCPro",
+  "version": "0.1.0",
+  "summary": "A short description of LGObjectiveCPro.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/aTreey/LGObjectiveCPro",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aTreey": "480814177@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/aTreey/LGObjectiveCPro.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LGObjectiveCPro/Classes/**/*"
+}

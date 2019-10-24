@@ -1,0 +1,6 @@
+framework module LGObjectiveCPro {
+  umbrella header "LGObjectiveCPro-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_LGObjectiveCPro_Example {
+  umbrella header "Pods-LGObjectiveCPro_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
